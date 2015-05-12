@@ -1,5 +1,6 @@
 <?php
 //Komentar yuniati 1
+//diedit oleh iscol cuntik
 
 /*
  *---------------------------------------------------------------
