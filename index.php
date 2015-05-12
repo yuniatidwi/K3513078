@@ -1,5 +1,6 @@
 <?php
-
+//Komentar yuniati 1
+//komentar yuniati 2
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
